@@ -1,2 +1,2 @@
 # Simple-Modal
-This is a Simple Modal Using HTML CSS and Javascript.
+This is a simple Modal Using HTML CSS and Javascript.
